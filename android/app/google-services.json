@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "951751507560",
+    "project_id": "flast-chat-249a9",
+    "storage_bucket": "flast-chat-249a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951751507560:android:0a92af971a334c0cdb85dd",
+        "android_client_info": {
+          "package_name": "com.yash_kaushik.flash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951751507560-5rtatvjn2fophhrpqhth604krhpoakgc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0sYrGyXDr5n552RvqytAlRkWH7IPasoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951751507560-5rtatvjn2fophhrpqhth604krhpoakgc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
